@@ -1,0 +1,111 @@
+Tensile Strain Predicted Values,Models,Index
+1.6367878315685256,Linear Reg,0
+1.6613871642178544,Linear Reg,1
+1.6967027542397868,Linear Reg,2
+1.6492180872228372,Linear Reg,3
+1.6972913269688326,Linear Reg,4
+1.5499034452316252,Linear Reg,5
+1.6194952190849428,Linear Reg,6
+1.6970963238021644,Linear Reg,7
+1.5892536587237738,Linear Reg,8
+1.6335050118812864,Linear Reg,9
+1.6613599274076043,Ridge Reg,0
+1.6661392257287992,Ridge Reg,1
+1.6761305037762504,Ridge Reg,2
+1.6627758525797578,Ridge Reg,3
+1.6773521939560265,Ridge Reg,4
+1.60398349879559,Ridge Reg,5
+1.6251955862666905,Ridge Reg,6
+1.6439647778223492,Ridge Reg,7
+1.6167901435470005,Ridge Reg,8
+1.62923765939573,Ridge Reg,9
+1.6475,Lasso Reg,0
+1.6475,Lasso Reg,1
+1.6475,Lasso Reg,2
+1.6475,Lasso Reg,3
+1.6475,Lasso Reg,4
+1.6475,Lasso Reg,5
+1.6475,Lasso Reg,6
+1.6475,Lasso Reg,7
+1.6475,Lasso Reg,8
+1.6475,Lasso Reg,9
+1.6475,ElasticNet Reg,0
+1.6475,ElasticNet Reg,1
+1.6475,ElasticNet Reg,2
+1.6475,ElasticNet Reg,3
+1.6475,ElasticNet Reg,4
+1.6475,ElasticNet Reg,5
+1.6475,ElasticNet Reg,6
+1.6475,ElasticNet Reg,7
+1.6475,ElasticNet Reg,8
+1.6475,ElasticNet Reg,9
+1.6367878315685287,Poly Reg - Degree 1,0
+1.6613871642178601,Poly Reg - Degree 1,1
+1.6967027542397912,Poly Reg - Degree 1,2
+1.6492180872228435,Poly Reg - Degree 1,3
+1.6972913269688354,Poly Reg - Degree 1,4
+1.5499034452316205,Poly Reg - Degree 1,5
+1.6194952190849385,Poly Reg - Degree 1,6
+1.6970963238021584,Poly Reg - Degree 1,7
+1.5892536587237696,Poly Reg - Degree 1,8
+1.6335050118812813,Poly Reg - Degree 1,9
+1.6833333333333336,KNeighbors Reg,0
+1.6533333333333333,KNeighbors Reg,1
+1.6933333333333334,KNeighbors Reg,2
+1.6533333333333333,KNeighbors Reg,3
+1.6833333333333336,KNeighbors Reg,4
+1.6133333333333333,KNeighbors Reg,5
+1.6433333333333333,KNeighbors Reg,6
+1.6133333333333333,KNeighbors Reg,7
+1.6433333333333333,KNeighbors Reg,8
+1.6433333333333333,KNeighbors Reg,9
+1.6,DecisionTree Reg,0
+1.63,DecisionTree Reg,1
+1.73,DecisionTree Reg,2
+1.63,DecisionTree Reg,3
+1.72,DecisionTree Reg,4
+1.57,DecisionTree Reg,5
+1.6,DecisionTree Reg,6
+1.67,DecisionTree Reg,7
+1.57,DecisionTree Reg,8
+1.66,DecisionTree Reg,9
+1.6265999999999974,RandomForest Reg,0
+1.666799999999998,RandomForest Reg,1
+1.7135999999999982,RandomForest Reg,2
+1.664199999999998,RandomForest Reg,3
+1.7087999999999988,RandomForest Reg,4
+1.5902999999999963,RandomForest Reg,5
+1.6174999999999968,RandomForest Reg,6
+1.646699999999997,RandomForest Reg,7
+1.6051999999999966,RandomForest Reg,8
+1.642699999999997,RandomForest Reg,9
+1.65,SupportVector Reg,0
+1.65,SupportVector Reg,1
+1.65,SupportVector Reg,2
+1.65,SupportVector Reg,3
+1.65,SupportVector Reg,4
+1.65,SupportVector Reg,5
+1.65,SupportVector Reg,6
+1.65,SupportVector Reg,7
+1.65,SupportVector Reg,8
+1.65,SupportVector Reg,9
+1.6000083443663062,GradientBoosting Reg,0
+1.6300017333262,GradientBoosting Reg,1
+1.7299944983882605,GradientBoosting Reg,2
+1.6300017333262,GradientBoosting Reg,3
+1.719998621312685,GradientBoosting Reg,4
+1.5700015940888727,GradientBoosting Reg,5
+1.6000055872300392,GradientBoosting Reg,6
+1.6699910387430916,GradientBoosting Reg,7
+1.5919169264165973,GradientBoosting Reg,8
+1.6599985825445447,GradientBoosting Reg,9
+1.6,Actual Targets,0
+1.64,Actual Targets,1
+1.73,Actual Targets,2
+1.63,Actual Targets,3
+1.72,Actual Targets,4
+1.57,Actual Targets,5
+1.6,Actual Targets,6
+1.67,Actual Targets,7
+1.59,Actual Targets,8
+1.66,Actual Targets,9
